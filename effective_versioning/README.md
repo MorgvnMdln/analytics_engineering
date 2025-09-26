@@ -1,0 +1,1 @@
+# Effective Git Versioning Project
